@@ -9,6 +9,9 @@
 
 **Company**: Zscaler (personal views, not official positions)
 
+[LinkedIn](https://www.linkedin.com/in/haoyunshen) | [X](https://x.com/henryhaoyunshen) 
+
+
 
 ## Disclaimer
 
@@ -547,3 +550,36 @@ Endpoint scanning:
 | HIPAA | PHI protection, audit trails, business associate agreements | DLP, encryption, access logging, BAA with vendors |
 | NIST AI RMF | Risk management, transparency, accountability | Guardrails, explainability, human-in-the-loop |
 | EU AI Act | Risk classification, CE marking for high-risk AI, conformity assessments, transparency obligations | Risk-based categorization of agent capabilities, documentation of training data, human oversight mechanisms, audit trails for high-risk use cases |
+
+
+## Next Steps: Implementation with Zscaler
+
+**Coming Soon**: video demos showing how Zscaler’s Zero Trust and AI security platform fits into this architecture. Configuration samples of what has been shown in demos will be added to this repo too.
+
+### What to Expect
+
+| Demo | Topic | Zscaler Components |
+| --- | --- | --- |
+| **Part 1** | Full visibility and intent filtering | Zscaler Internet Access, Zscaler AI Guard |
+| **Part 2** | Proactive red teaming and policy installation | Zscaler AI Red Teaming, Zscaler AI Guard |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+### Stay Tuned
+
+**Subscribe for updates:**
+
+- Star this repository
+- Follow me on [X (@henryhaoyunshen)](https://x.com/henryhaoyunshen)
+- Watch for release announcements
+
+### Early Access
+
+Want to be notified when videos are released?
+
+- Open an issue with title "Notify me: Video series"
+
+---
+
+*Videos will demonstrate real-world implementation using publicly available Zscaler features and documentation. No proprietary or confidential information will be shared.*
